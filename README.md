@@ -56,3 +56,14 @@ A continuación, presento una selección de proyectos que demuestran mi capacida
 > **Aplicación de lo aprendido:** En este proyecto se evidenció el rol del navegador y el servidor durante la solicitud/respuesta de recursos. Se aplicaron buenas prácticas de desarrollo al usar el control de versiones (Git) para gestionar la historia del sitio web, basándose en guías de aprendizaje estructural (HTML) y de apariencia (CSS).
 > 
 > 🔗 **[Ver Repositorio en GitHub](https://github.com/Fajard05/Proyecto-02-Explorando-la-cultura-con-la-web)**
+### 2. AutoManager (App Móvil)
+> **Problema que resuelve:** La gestión manual, desorganizada y lenta de las operaciones administrativas, servicios y facturación dentro de un taller mecánico.
+> 
+> **Tecnologías utilizadas:** Java, XML.
+> 
+> **Funcionalidades principales:**
+> * Administración completa de entidades (Clientes, Proveedores, Técnicos y Servicios).
+> * Generación de Órdenes de Servicios y Facturación Empresarial.
+> * Generación automática de Reportes de Ingresos (por servicio general y por técnico específico).
+> 
+> 🔗 **[Ver Repositorio en GitHub](https://github.com/himerino/POO-P1-G04)**
