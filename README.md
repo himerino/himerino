@@ -18,3 +18,24 @@ Actualmente curso la carrera de **Ciencias de la Computación en la ESPOL** (Esc
 *   🎨 **Diseño UI/UX:** Prototipado centrado en el usuario y accesibilidad.
 
 ---
+## 🛠️ Habilidades, Tecnologías y su Aplicación
+
+Durante mi formación académica, he consolidado conocimientos teóricos mediante su aplicación práctica en proyectos:
+
+*   **Fundamentos Web (HTML5 & CSS3):** Comprensión del modelo cliente-servidor, estructuración semántica de documentos HTML y maquetación visual mediante CSS para afectar la apariencia y usabilidad.
+*   **Programación Orientada a Objetos (Java):** Desarrollo de lógica de negocios, gestión de entidades y arquitecturas de software para aplicaciones robustas.
+*   **Desarrollo de Interfaces Móviles (XML):** Diseño estructurado de vistas y *layouts* para aplicaciones en Android.
+*   **Bases de Datos Relacionales (SQL):** Diseño de esquemas, normalización de datos y creación de consultas para sistemas de información.
+*   **Herramientas y Versionamiento (Git & GitHub):** Gestión del historial de los proyectos, buenas prácticas de desarrollo colaborativo y despliegue de sitios web estáticos.
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/XML-006600?style=for-the-badge&logo=xml&logoColor=white" alt="XML" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+</div>
+
+---
