@@ -39,3 +39,20 @@ Durante mi formación académica, he consolidado conocimientos teóricos mediant
 </div>
 
 ---
+## 🚀 Proyectos destacados
+
+A continuación, presento una selección de proyectos que demuestran mi capacidad para aplicar tecnologías a problemas reales:
+
+### 1. Explorando la cultura con la web
+> **Problema que resuelve:** La necesidad de estructurar y presentar información cultural de manera accesible y estéticamente agradable en la web.
+> 
+> **Tecnologías utilizadas:** HTML, CSS, Git, Modelo Cliente-Servidor.
+> 
+> **Funcionalidades principales:** 
+> * Despliegue de un sitio web estático multiplataforma.
+> * Estructuración de contenido mediante etiquetas semánticas HTML.
+> * Diseño e identidad visual gestionada enteramente a través de hojas de estilo CSS.
+> 
+> **Aplicación de lo aprendido:** En este proyecto se evidenció el rol del navegador y el servidor durante la solicitud/respuesta de recursos. Se aplicaron buenas prácticas de desarrollo al usar el control de versiones (Git) para gestionar la historia del sitio web, basándose en guías de aprendizaje estructural (HTML) y de apariencia (CSS).
+> 
+> 🔗 **[Ver Repositorio en GitHub](https://github.com/Fajard05/Proyecto-02-Explorando-la-cultura-con-la-web)**
