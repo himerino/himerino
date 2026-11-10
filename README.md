@@ -67,3 +67,16 @@ A continuación, presento una selección de proyectos que demuestran mi capacida
 > * Generación automática de Reportes de Ingresos (por servicio general y por técnico específico).
 > 
 > 🔗 **[Ver Repositorio en GitHub](https://github.com/himerino/POO-P1-G04)**
+### 3. Sistema de Facturación - Jardines de Esperanza
+> **Problema que resuelve:** La ausencia de un sistema relacional optimizado para el registro de ventas y emisión de facturas por productos y servicios en un camposanto.
+> 
+> **Tecnologías utilizadas:** SQL (Bases de Datos Relacionales).
+> 
+> **Funcionalidades principales:**
+> * Diseño e implementación de un modelo de base de datos relacional.
+> * Registro histórico y seguro de facturación y transacciones comerciales.
+> * Mapeo de relaciones complejas entre servicios contratados y clientes.
+> 
+> 🔗 **[Ver Repositorio en GitHub](https://github.com/himerino/Proyecto_SBD)**
+
+---
