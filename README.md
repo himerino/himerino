@@ -5,11 +5,13 @@
 Bienvenido(a) a mi portafolio digital. Aquí documento mi trayectoria académica y profesional, enfocado en la creación de soluciones tecnológicas eficientes, tanto en plataformas web y móviles como en el diseño de bases de datos.
 
 ---
+
 ## 👩‍💻 Sobre mí
 
 Actualmente curso la carrera de **Ciencias de la Computación en la ESPOL** (Escuela Superior Politécnica del Litoral). Me apasiona el ciclo completo de desarrollo de software, desde el diseño de la experiencia de usuario (UI/UX) hasta la implementación de bases de datos relacionales y la programación backend/frontend. Disfruto resolver problemas complejos y transformar requerimientos empresariales en aplicaciones funcionales.
 
 ---
+
 ## 🎯 Áreas de interés
 
 *   📱 **Desarrollo de Aplicaciones Móviles:** Creación de herramientas de gestión y utilidades con interfaces intuitivas.
@@ -18,6 +20,7 @@ Actualmente curso la carrera de **Ciencias de la Computación en la ESPOL** (Esc
 *   🎨 **Diseño UI/UX:** Prototipado centrado en el usuario y accesibilidad.
 
 ---
+
 ## 🛠️ Habilidades, Tecnologías y su Aplicación
 
 Durante mi formación académica, he consolidado conocimientos teóricos mediante su aplicación práctica en proyectos:
@@ -39,6 +42,7 @@ Durante mi formación académica, he consolidado conocimientos teóricos mediant
 </div>
 
 ---
+
 ## 🚀 Proyectos destacados
 
 A continuación, presento una selección de proyectos que demuestran mi capacidad para aplicar tecnologías a problemas reales:
@@ -80,3 +84,10 @@ A continuación, presento una selección de proyectos que demuestran mi capacida
 > 🔗 **[Ver Repositorio en GitHub](https://github.com/himerino/Proyecto_SBD)**
 
 ---
+
+## 📫 Contacto
+
+Si deseas conversar sobre oportunidades de software, desarrollo web, o proyectos de UI/UX, no dudes en conectarte conmigo:
+
+*   💼 **LinkedIn:** [Hillary Merino](https://www.linkedin.com/in/hillary-merino-9bba932b7/)
+*   💻 **GitHub:** [@himerino](https://github.com/himerino)
